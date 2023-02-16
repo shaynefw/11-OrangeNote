@@ -1,3 +1,7 @@
+# Ignore Visual Studio Code files
+.vscode/
+settings.json
+
 # Logs
 logs
 *.log
