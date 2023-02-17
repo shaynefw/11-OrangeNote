@@ -1,7 +1,7 @@
 # Ignore Visual Studio Code files
 .vscode/
 settings.json
-
+.DS_store
 # Logs
 logs
 *.log
